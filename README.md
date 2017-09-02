@@ -8,6 +8,9 @@
 ### How to train
 `python train.py --help`
 
+input must be input.txt
+
 ### How to generate sample
 `python sample.py --help`
 
+output.txt will be on save folder
